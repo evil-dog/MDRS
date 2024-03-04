@@ -1,0 +1,3 @@
+[submodule "lib/Farm-Data-Relay-System"]
+	path = lib/Farm-Data-Relay-System
+	url = https://github.com/evil-dog/Farm-Data-Relay-System.git
