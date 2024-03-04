@@ -1,0 +1,19 @@
+# PlatformIO ignores from a PR on github's gitignore repository
+.pio
+.pioenvs
+.piolibdeps
+
+# Visual Studio Code ignores from github's gitignore repository
+## VSCode Settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+## VSCode Local History
+.history/
+
+## VSCode Built Extensions
+*.vsix
